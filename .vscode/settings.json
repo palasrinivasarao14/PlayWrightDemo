@@ -1,0 +1,5 @@
+{
+    "npm.runSilent": false,
+    "npm.packageManager": "auto",
+    "npm.exclude": ""
+}
